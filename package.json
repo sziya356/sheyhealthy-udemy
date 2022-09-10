@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "15.7.0",
-    "npm": "7.4.3"
+    "node": "16.13.0",
+    "npm": "8.19.1"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
@@ -25,6 +25,8 @@
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.4",
     "mongoose": "^6.6.0",
-    "nodemon": "^2.0.19"
+    "node": "^18.9.0",
+    "nodemon": "^2.0.19",
+    "npm": "^8.19.1"
   }
 }
